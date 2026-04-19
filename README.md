@@ -1,2 +1,2 @@
 # Superstore-Sales-SQL-Analysis
-about-sql-course
+This project focuses on transforming a large, de-normalized retail dataset into a structured, relational SQL database. The primary goal is to enhance business intelligence by optimizing data storage and enabling advanced analytical reporting for a global retail enterprise. Managing global sales data in a single flat file causes data redundancy and makes it difficult to track critical metrics like shipping delays and regional profitability. I designed a 6-table normalized schema (Customers, Geography, Categories, Products, Orders, OrderDetails) to ensure data integrity and enable advanced analytics using SQL Views, Joins, and CTEs.
